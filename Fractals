@@ -1,3 +1,7 @@
+The screen you are staring at right now sure looks like a rectangle. And the apple you ate this morning is circular. But what if you were to look further, and consider the trees that line the street, the leaves that hang off those trees, the lightning from last night’s thunderstorm, the cauliflower you ate for dinner, the blood vessels in your body, and the mountains? Most of the stuff you find in nature cannot be described by the idealized geometrical forms of Euclidean geometry. So if we want to start building computational designs with patterns beyond the simple shapes ellipse(), rect(), and line().
+
+The concepts behind and techniques for simulating the geometry of nature: fractals.
+
 What is a fractal?
 
 The term fractal was given by the mathematician Benoit Mandelbrot in 1975. According to him a fractal is a rough or fragmented geometric shape that can be split into parts, each of which is (at least approximately) a reduced-size copy of the whole.
